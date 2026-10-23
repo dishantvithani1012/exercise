@@ -227,5 +227,5 @@ elif Male_sign == "Pisces":
     else:
         print("Great Match")
 
-print("Thank You")
+print("Thank You, Good Day")
 
