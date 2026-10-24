@@ -130,7 +130,6 @@ print("Male Zodiac Sign Is",Male_sign)
 print()
 print("Female Zodiac Sign Is",Female_sign)
 print()
-
 if Male_sign == "Aries":
     if Female_sign == "Aries" or Female_sign == "Leo" or Female_sign == "Sagittarius" or Female_sign == "Gemini" or Female_sign == "Libra" or Female_sign == "Aquarius":
         print("Great Match")
@@ -227,5 +226,6 @@ elif Male_sign == "Pisces":
     else:
         print("Great Match")
 
-print("Thank You, Good Day")
+
+#print("Thank You, Good Day")
 
